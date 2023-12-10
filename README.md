@@ -4,7 +4,7 @@ A simple mod who replace the classic Yoshis made by Nintendo with Feather, Sol, 
 ### List of changes:
 * Playable Linky, Feather, Sol and SwissYosh.
 * Every Yoshis have a custom balloon wonder effect model.
-* Custom life icon for each Yoshis provided by SwissYosh.
+* Custom life and character select icon for each Yoshis.
 * Custom sneaky funny sounds.
 * Custom English, French and German translation.
 * Harder use of Yoshi in game. (He is now more vulnerable and can die if you hits enemies more than 2 times.)
